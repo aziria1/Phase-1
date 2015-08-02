@@ -1,1 +1,56 @@
-
+@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow:400,400italic,700,700italic);
+#adra{
+  width: 55px;
+  height:45px;
+  position: fixed;
+  top: 5px;
+}
+.nav a {
+  color: black;
+  font-family: Archivo Narrow;
+  font-weight: lighter;
+}
+.thisnavbar{
+  background-color: white;
+}
+.item{
+  display: block;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+#footer{
+    height: 60px;
+}
+.text1{
+  font-family: Archivo Narrow;
+}
+.btn{
+  background: none;
+  font-family: Archivo Narrow;
+  color: white;
+  box-shadow: none;
+}
+.img-circle{
+  width: 260px;
+	height: 260px;
+  position: relative;
+  top: 185px;
+  left: 490px;
+}
+.texto{
+  color: #4cbfc3;
+}
+.progress{
+  width: 70%;
+  position: relative;
+  top: 500px;
+  left: 15%;
+}
+.img-thumbnail{
+  width: 100%;
+	height: 30%;
+  position: relative;
+  top: 60px;
+  left: auto;
+}

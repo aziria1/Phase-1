@@ -35,7 +35,7 @@
   width: 260px;
 	height: 260px;
   position: relative;
-  top: 185px;
+  top: 140px;
   left: 490px;
 }
 .texto{
@@ -49,8 +49,31 @@
 }
 .img-thumbnail{
   width: 100%;
-	height: 30%;
+	height: 40%;
   position: relative;
   top: 60px;
   left: auto;
+}
+.thumbnail {
+  width: 180px;
+  height: 180px;
+  position: relative;
+  top: 70px;
+  left: 20%;
+  background-color: black;
+}
+.thumbnail img{
+  width: 180px;
+  height: 171px;
+  top: 70px;
+  left: 20%;
+}
+.row h1{
+  position: relative;
+  top: 60px;
+}
+.row p{
+  position:relative;
+  top: 55px;
+  text-align: justify;
 }

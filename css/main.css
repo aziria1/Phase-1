@@ -89,3 +89,16 @@
   height: 20%;
   font-family: Archivo Narrow;
 }
+.col-md-5{
+  background-color: black;
+  color: white;
+  font-family: Archivo Narrow;
+  height: 90%;
+}
+.col-md-7{
+  font-family: Archivo Narrow;
+  height: 100%;
+  top: 30px;
+  width: auto;
+  left: 30px;
+}

@@ -77,3 +77,15 @@
   top: 55px;
   text-align: justify;
 }
+.row-height{
+  height: 40%;
+}
+.content h1{
+  background-color: black;
+  color: white;
+  font-family: Archivo Narrow;
+}
+.content p{
+  height: 20%;
+  font-family: Archivo Narrow;
+}
